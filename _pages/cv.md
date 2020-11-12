@@ -18,8 +18,8 @@ Work experience
 ======
 * 1997-present: Professor
   * National Technical University of Athens
-* 1992-1997: Associate Professort
-* 1987-1992: Assistant Professort
+* 1992-1997: Associate Professor
+* 1987-1992: Assistant Professor
 * 1984-1987: Lecturer
   
 

@@ -1,3 +1,4 @@
 ---
 title: "TBA"
+collection: students
 ---
