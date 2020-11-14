@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ph.D. & Selected Diploma Students"
+title: "Graduated Ph.D. & Selected Diploma Students"
 permalink: /students/
 author_profile: true
 ---
