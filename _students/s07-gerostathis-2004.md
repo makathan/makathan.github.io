@@ -1,8 +1,8 @@
 ---
-title: "Theodros P. Gerostathis"
+title: "Theodoros P. Gerostathis"
 collection: students
 permalink: /students/s7-gerostathis-2004
-thesis: "Wave propagation in the nearshore/coastal environ- ment using models appropriate for parallel processing"
+thesis: "Wave propagation in the nearshore/coastal environment using models appropriate for parallel processing"
 institute: "NTUA, Greece"
 year: "2004"
 type: "phd" # or diploma
