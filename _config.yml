@@ -84,7 +84,7 @@ author:
   avatar           : "makis.jpeg"
   bio              : "Professor of Ship and Marine Hydrodynamics"
   location         : 
-  employer         : "NTUA"
+  employer         : "NTUA, Greece"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Jm_FmuAAAAAJ"
   email            : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "makathan"
+  github           : #"makathan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gerassimosathanassoulis/"
+  linkedin         : "gerassimosathanassoulis/"
   orcid            : "https://orcid.org/0000-0001-8761-3560"
   pinterest        :
   soundcloud       :
@@ -184,6 +184,9 @@ collections:
   students:
     output: true
     permalink: /:collection/:path/
+  students_diploma:
+    output: true
+    permalink: /:collection/:path/
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _students_diploma
+  - scope:
+      path: ""
+      type: students_diploma
     values:
       layout: single
       author_profile: true
