@@ -11,4 +11,4 @@ location: #"City, Country"
 Heading 1
 ======
 
-TBA
+The content of the class.
