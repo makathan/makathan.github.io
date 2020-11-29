@@ -1,5 +1,5 @@
 ---
-title: "Non-Markovian Stochastic Functions: Stochastic Dynamics."
+title: "Non-Markovian Stochastic Functions. Stochastic Dynamics."
 collection: teaching
 type: "Graduate course"
 # permalink: /teaching/spring-2020
