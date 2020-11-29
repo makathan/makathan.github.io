@@ -5,7 +5,7 @@ type: "Graduate course"
 # permalink: /teaching/fall-2020
 venue: "National Technical University of Athens, Greece"
 year: "2020"
-semester: "Spring"
+semester: "Fall"
 location: #"City, Country"
 ---
 
