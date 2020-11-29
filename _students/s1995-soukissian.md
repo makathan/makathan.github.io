@@ -7,4 +7,5 @@ institute: "NTUA, Greece"
 year: "1995"
 type: "phd" # or diploma
 current-position: "Senior Researcher, <i>Hellenic Center for Marine Research</i>, Greece"
+external-link: "https://www.hcmr.gr/en/soukissian-takvor/"
 ---

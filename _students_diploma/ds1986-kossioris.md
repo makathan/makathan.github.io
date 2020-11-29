@@ -7,4 +7,5 @@ institute: "NTUA, Greece"
 year: "1986"
 type: "diploma"
 current-position: "Professor, Department of Mathematics and Applied Mathematics, <i>University of Crete, Greece</i>"
+external-link: "http://users.math.uoc.gr/~kosioris/"
 ---

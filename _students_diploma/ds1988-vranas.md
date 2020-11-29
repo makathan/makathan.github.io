@@ -7,4 +7,5 @@ institute: "NTUA, Greece"
 year: "1988"
 type: "diploma"
 current-position: "Professor, Department of Philosophy, <i>University of Wisconsin-Madison, USA</i>"
+external-link: "https://philosophy.wisc.edu/staff/vranas-peter-b-m/"
 ---

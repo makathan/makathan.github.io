@@ -7,4 +7,5 @@ institute: "NTUA, Greece"
 year: "1992"
 type: "phd" # or diploma
 current-position: "Professor, Dept. of Applied Mathematics, <i>University of Crete</i>, and Researcher at the Institute of Applied and Computational Mathematics, <i>Foundation of Research and Technology</i>, Heraklion, Crete, Greece"
+external-link: "http://users.math.uoc.gr/~makrakg/"
 ---

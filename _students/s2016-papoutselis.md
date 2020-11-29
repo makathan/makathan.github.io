@@ -1,5 +1,5 @@
 ---
-title: "Christos E. Papoutelis"
+title: "Christos E. Papoutselis"
 collection: students
 permalink: /students/s12-papoutselis-2016
 thesis: "Nonlinear Water Waves over varying bathymetry. Theoretical and numerical study using variational methods"
