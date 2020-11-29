@@ -7,6 +7,6 @@ institute: "NTUA, Greece"
 year: "1990"
 type: "phd" # or diploma
 current-position: "Professor, Department of Naval Architecture, School of Engineering, <i>University of West Attica, Greece</i>"
-external-link: "http://www.na.uniwa.gr/wp-content/uploads/sites/22/2020/11/CV_POLITIS_November_2020.pdf"
+external-link: "http://www.na.uniwa.gr/wp-content/uploads/sites/22/2020/02/Politis_CV_EN.pdf"
 ---
 
