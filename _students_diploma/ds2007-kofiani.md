@@ -6,5 +6,5 @@ thesis: "Calculus on Functionals and Variational Formulations with Application t
 institute: "NTUA, Greece"
 year: "2007"
 type: "diploma" 
-current-position: "Commercial Delivery Advisor, <i>Shell, The Netherlands</i>"
+current-position: "Engineer, <i>Shell, The Netherlands</i>"
 ---
