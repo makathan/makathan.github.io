@@ -6,5 +6,5 @@ thesis: "Calculus on Functionals and Variational Formulations with Application t
 institute: "NTUA, Greece"
 year: "2007"
 type: "diploma" 
-# current-position: "Associate Professor, Department of Naval Architecture, School of Engineering, <i>University of West Attica, Greece</i>"
+current-position: "Commercial Delivery Advisor, <i>Shell, The Netherlands</i>"
 ---
