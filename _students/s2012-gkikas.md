@@ -6,5 +6,6 @@ thesis: "Nonlinear system modeling and identification of an onshore oscillating 
 institute: "NTUA, Greece"
 year: "2012"
 type: "phd" # or diploma
-# current-position: "Associate Professor, Department of Naval Architecture, School of Engineering, <i>University of West Attica, Greece</i>"
+current-position: "Senior Engineer in Hydrodynamics, <i>SBM Offshore, The Netherlands</i>"
 ---
+
