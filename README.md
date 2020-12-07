@@ -5,14 +5,14 @@ The page is live at [https://gerassimos.athanassoulis.net](https://gerassimos.at
 ## Which files to change to update Gerassimos' info?
 
 ## Pages
-Main page: click [_pages/about.md](https://github.com/makathan/makathan.github.io/edit/master/_pages/about.md) to edit the homepage.
-Short CV information is maintained in [_pages/cv.md](https://github.com/makathan/makathan.github.io/blob/master/_pages/cv.md).
+1. Main page: click [_pages/about.md](https://github.com/makathan/makathan.github.io/edit/master/_pages/about.md) to edit the homepage.
+1. Short CV information is maintained in [_pages/cv.md](https://github.com/makathan/makathan.github.io/blob/master/_pages/cv.md).
 
 ### Collections
-Publications are maintained in [_publications](https://github.com/makathan/makathan.github.io/tree/master/_publications).
-PhD students are maintained in [_students](https://github.com/makathan/makathan.github.io/tree/master/_students).
-Diploma students are maintained in [_students_diploma](https://github.com/makathan/makathan.github.io/tree/master/_students_diploma).
-Teaching information is maintained in [_teaching](https://github.com/makathan/makathan.github.io/tree/master/_teaching).
+1. Publications are maintained in [_publications](https://github.com/makathan/makathan.github.io/tree/master/_publications).
+1. PhD students are maintained in [_students](https://github.com/makathan/makathan.github.io/tree/master/_students).
+1. Diploma students are maintained in [_students_diploma](https://github.com/makathan/makathan.github.io/tree/master/_students_diploma).
+1. Teaching information is maintained in [_teaching](https://github.com/makathan/makathan.github.io/tree/master/_teaching).
 
 # Disclaimers and other information
 
