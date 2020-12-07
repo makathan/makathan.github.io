@@ -6,6 +6,8 @@ thesis: "Methods of long-term analysis and prediction of sea wave climate"
 institute: "NTUA, Greece"
 year: "1995"
 type: "phd" # or diploma
-current-position: "Senior Researcher, <i>Hellenic Center for Marine Research</i>, Greece"
+current-affiliation-position: "Senior Researcher"
+current-affiliation-institution: "Hellenic Center for Marine Research"
+current-affiliation-country: "Greece"
 external-link: "https://www.hcmr.gr/en/soukissian-takvor/"
 ---

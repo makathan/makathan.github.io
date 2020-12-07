@@ -6,6 +6,8 @@ thesis: "Nonlinear system modeling and identification of an onshore oscillating 
 institute: "NTUA, Greece"
 year: "2012"
 type: "phd" # or diploma
-current-position: "Senior Engineer in Hydrodynamics, <i>SBM Offshore, The Netherlands</i>"
+current-affiliation-position: "Senior Engineer in Hydrodynamics"
+current-affiliation-institution: "SBM Offshore"
+current-affiliation-country: "The Netherlands"
 ---
 

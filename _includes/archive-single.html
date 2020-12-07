@@ -78,7 +78,7 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-    {% if post.thesis or post.current-position %}
+    {% if post.thesis %}
     <p style="margin-top: 0px;">
       {% if post.thesis and post.type== 'phd' %}
       <b>Ph.D. Thesis:</b> &quot;<i>{{ post.thesis }}</i>&quot;, {{ post.institute }}, {{ post.year }} 
@@ -87,7 +87,9 @@
       {% endif %}
 
       {% if post.current-position %}
-      <br/><b>Current position:</b> {{ post.current-position }} 
+        <br/><b>Current position:</b> {{ post.current-position }} 
+      {% elsif post.current-affiliation-position %}
+        <br/><b>Current position:</b> {{ post.current-affiliation-position }}, <i>{{ post.current-affiliation-institution }}</i>, {{ post.current-affiliation-country }}
       {% endif %}
     </p>
     {% endif %}

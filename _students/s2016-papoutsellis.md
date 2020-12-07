@@ -6,5 +6,7 @@ thesis: "Nonlinear Water Waves over varying bathymetry. Theoretical and numerica
 institute: "NTUA, Greece"
 year: "2016"
 type: "phd" # or diploma
-current-position: "Postdoctoral Researcher at <i>Institut de Mécanique des Fluides de Toulouse - IMFT at IRT Saint Exupéry, France</i>"
+current-affiliation-position: "Postdoctoral Researcher"
+current-affiliation-institution: "Institut de Mécanique des Fluides de Toulouse - IMFT at IRT Saint Exupéry"
+current-affiliation-country: "France"
 ---

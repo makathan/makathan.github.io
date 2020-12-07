@@ -6,6 +6,8 @@ thesis: "A function-theoretic approach to a two-dimensional wave-body interactio
 institute: "NTUA, Greece"
 year: "1986"
 type: "diploma"
-current-position: "Professor, Department of Mathematics and Applied Mathematics, <i>University of Crete, Greece</i>"
+current-affiliation-position: "Professor, Department of Mathematics and Applied Mathematics"
+current-affiliation-institution: "University of Crete"
+current-affiliation-country: "Greece"
 external-link: "http://users.math.uoc.gr/~kosioris/"
 ---
