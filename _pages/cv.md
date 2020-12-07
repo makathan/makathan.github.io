@@ -12,7 +12,10 @@ redirect_from:
 
 ## Work experience
 * 1984-2020: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
-  * Full professor since 1997
+  * Full Professor 1997-2020
+  * Associate Professor 1992-1997
+  * Assistant Professor 1987-1992
+  * Lecturer 1984-1987
 * 2017: Visiting Researcher, University of Melbourne, Australia
 * 2013-2016: Research Professor, ITMO University, Russia
 * 2004: Visiting Researcher at the Centre for Ships and Ocean Structures, NTNU, Norway
