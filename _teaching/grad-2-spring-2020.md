@@ -7,5 +7,6 @@ venue: "National Technical University of Athens, Greece"
 year: "2020"
 semester: "Spring"
 location: #"City, Country"
+comment: "Taught (and continuously evolved) since 2014."
 ---
 

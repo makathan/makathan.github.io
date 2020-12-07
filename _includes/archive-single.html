@@ -49,7 +49,10 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="margin-top: 0px;"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.semester }}, {{ post.year }}. </p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.semester }}, {{ post.year }}. </p>
+          {% if post.comment %}
+          <p style="margin-top: 0px;"> {{ post.comment }} </p>
+          {% endif%}
         {% elsif post.collection == 'publications' %}
           <p style="margin-top: 0px; margin-bottom: 0px;">{{ post.authorlist }} </p>
           {% if post.venue %}  
