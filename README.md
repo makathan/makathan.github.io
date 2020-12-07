@@ -1,4 +1,12 @@
+# Gerassimos Athanassoulis Homepage
+
 The page is live at [https://gerassimos.athanassoulis.net](https://gerassimos.athanassoulis.net).
+
+## Which files to change to update Gerassimos' info?
+
+Main page: click [_pages/about.md](https://github.com/makathan/makathan.github.io/edit/master/_pages/about.md) to edit the homepage.
+
+# Disclaimers and other information
 
 This page is a fork from https://academicpages.github.io/, a Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
@@ -12,6 +20,3 @@ This page is a fork from https://academicpages.github.io/, a Github Pages templa
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-# Which files to change to update Gerassimos' info?
-
-Main page: click [_pages/about.md](https://github.com/makathan/makathan.github.io/edit/master/_pages/about.md) to edit the homepage.
