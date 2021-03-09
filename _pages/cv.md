@@ -11,7 +11,8 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* 1984-2020: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
+* 1984-now: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
+  * Emeritus Professor: 2021-now
   * Full Professor: 1997-2020
   * Associate Professor: 1992-1997
   * Assistant Professor: 1987-1992
