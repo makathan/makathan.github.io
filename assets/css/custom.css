@@ -1,3 +1,21 @@
 .archive a {text-decoration: none !important;}
 
 .archive a:hover {text-decoration: underline !important;}
+
+.btn {
+    background-color: #0202fe;
+    /* default button */
+    /* display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    color: #fff !important;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: $primary-color;
+    border: 0 !important;
+    border-radius: $border-radius;
+    cursor: pointer; */
+}
