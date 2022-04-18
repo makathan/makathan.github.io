@@ -3,7 +3,8 @@
 .archive a:hover {text-decoration: underline !important;}
 
 .btn {
-    background-color: #0202fe;
+    background-color: #2595f0;
+    text-decoration: none;
     /* default button */
     /* display: inline-block;
     margin-bottom: 0.25em;
