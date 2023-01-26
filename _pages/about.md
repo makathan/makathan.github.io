@@ -12,4 +12,4 @@ My scientific interests lie with applied mathematics, variational principles, pr
 
 Further, I like teaching and collaboration, and I am concerned with the sound education of young applied scientists and engineers, especially with respect to the appropriate mathematical background. In response to this challenge I have developed two graduate courses; one on general and functional analysis, including functional derivatives and variational principles, and a second one on the foundation of probability and stochastic functions, including elements of measure theory in infinite-dimensional function spaces. 
 
-<a href="http://www.waves-probability.org/" class="btn">Click here for the 2022 "Waves, Probabilities, and Memories" Conference </a>
+<a href="http://www.waves-probability.org/" target="_blank" class="btn">Click here for the 2022 "Waves, Probabilities, and Memories" Conference </a>
