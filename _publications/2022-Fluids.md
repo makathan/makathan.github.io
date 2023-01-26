@@ -1,4 +1,3 @@
-
 ---
 title: "Hamiltonian Variational Formulation of Three-Dimensional, Rotational Free-Surface Flows, with a Moving Seabed, in the Eulerian Description"
 collection: publications
