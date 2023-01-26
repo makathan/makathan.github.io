@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click <u><a href="documents/Gerassimos-Athanassoulis-CV-2023.pdf" target="_blank">here to access my long-form CV</a></u>.
+
 ## Work experience
 * 1984-now: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
   * Emeritus Professor: 2021-now
