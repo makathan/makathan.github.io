@@ -1,16 +1,18 @@
 ---
 layout: archive
-title: Short Curriculum Vitae
+# title: Short Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
 {% include base_path %}
 
 Click <u><a href="../documents/Gerassimos-Athanassoulis-CV-2023.pdf" target="_blank">here to access my long-form CV</a></u>.
+
+# Short Curriculum Vitae
+
 
 ## Work experience
 * 1984-now: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
