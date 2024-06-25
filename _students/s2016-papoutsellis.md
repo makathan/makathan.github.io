@@ -6,7 +6,8 @@ thesis: "Nonlinear Water Waves over varying bathymetry. Theoretical and numerica
 institute: "NTUA, Greece"
 year: "2016"
 type: "phd" # or diploma
-current-affiliation-position: "Postdoctoral Researcher"
-current-affiliation-institution: "Institut de Mécanique des Fluides de Toulouse - IMFT at IRT Saint Exupéry"
-current-affiliation-country: "France"
+current-affiliation-position: "Assistant Project Scientist"
+current-affiliation-institution: "Department of Mechanical and Aerospace Engineering, University of California San Diego"
+current-affiliation-country: "USA"
+external-link: "https://chpapoutsellis.github.io/"
 ---
