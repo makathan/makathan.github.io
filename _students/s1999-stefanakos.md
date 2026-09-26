@@ -6,6 +6,8 @@ thesis: "Nonstationary stochastic modelling of time series with applications to 
 institute: "NTUA, Greece"
 year: "1999"
 type: "phd" # or diploma
-current-position: "Research Scientist in the Department of Energy and Transport, <i>SINTEF Ocean</i>, Norway"
+current-affiliation-position: "Senior Research Scientist, Department of Fisheries and New Biomarine Industry"
+current-affiliation-institution: "SINTEF Ocean"
+current-affiliation-country: "Norway"
 external-link: "https://www.linkedin.com/in/christos-stefanakos-2526328/"
 ---

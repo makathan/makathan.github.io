@@ -6,8 +6,8 @@ thesis: "Probabilistic responses of dynamical systems subjected to Gaussian colo
 institute: "NTUA, Greece"
 year: "2020"
 type: "phd" # or diploma
-current-affiliation-position: "Acting Instructor"
-current-affiliation-institution: "Department of Applied Mathematics, University of Washington"
+current-affiliation-position: "Assistant Professor, Department of Mathematics and Statistics"
+current-affiliation-institution: "University of Wyoming"
 current-affiliation-country: "USA"
-external-link: "https://amath.washington.edu/people/konstantinos-mamis"
+external-link: "https://www.uwyo.edu/mathstats/people/faculty/mamis.html"
 ---

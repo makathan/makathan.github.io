@@ -7,4 +7,5 @@ institute: "NTUA, Greece"
 year: "2000"
 type: "phd" # or diploma
 current-position: "Associate Researcher, <i>Hellenic Center for Marine Research</i>, Greece"
+external-link: "https://www.linkedin.com/in/aristides-prospathopoulos-7334523a/"
 ---

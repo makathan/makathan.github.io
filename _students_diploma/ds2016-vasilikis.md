@@ -6,5 +6,6 @@ thesis: "Hydrodynamic interaction and power absorption efficiency of wave energy
 institute: "NTUA, Greece"
 year: "2016"
 type: "diploma" 
+current-position: "<i>Damen Naval</i>, The Netherlands"
 # current-position: "Associate Professor, Department of Naval Architecture, School of Engineering, <i>University of West Attica, Greece</i>"
 ---

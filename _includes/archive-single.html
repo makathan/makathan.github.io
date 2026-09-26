@@ -29,7 +29,7 @@
     <h3 class="archive__item-title" itemprop="headline" class="no-underline" style="margin-bottom: 2px; text-decoration: none;">
       {% if post.collection == 'students' or post.collection == 'students_diploma'  or post.collection == 'publications' %}
         {% if post.external-link %}
-          <a href="{{ post.external-link }}" target="_blank"{% if post.collection == 'publications' %} class="paper-title-link"{% endif %}>{{ title | strip }}</a>
+          <a href="{{ post.external-link }}" target="_blank" class="paper-title-link">{{ title | strip }}</a>
         {% else %}
           {{ title }}
         {% endif %}
@@ -94,7 +94,8 @@
       {% if post.current-position %}
         <br/><b>Current position:</b> {{ post.current-position }} 
       {% elsif post.current-affiliation-position %}
-        <br/><b>Current position:</b> {{ post.current-affiliation-position }}, <i>{{ post.current-affiliation-institution }}</i>, {{ post.current-affiliation-country }}
+        <br/><b>Current position{% if post.current-affiliation-position-2 %}s{% endif %}:</b> {{ post.current-affiliation-position }}, <i>{{ post.current-affiliation-institution }}</i>{% if post.current-affiliation-country %}, {{ post.current-affiliation-country }}{% endif %}
+        {%- if post.current-affiliation-position-2 %}, and {{ post.current-affiliation-position-2 }}, <i>{{ post.current-affiliation-institution-2 }}</i>{% if post.current-affiliation-country-2 %}, {{ post.current-affiliation-country-2 }}{% endif %}{% endif %}
       {% endif %}
     </p>
     {% endif %}

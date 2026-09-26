@@ -6,7 +6,7 @@ thesis: "Steady free-surface flows around a finite obstacle or an applied pressu
 institute: "NTUA, Greece"
 year: "1995"
 type: "phd" # or diploma
-current-affiliation-position: "Assistant Professor, Department of Naval Architecture, School of Engineering"
+current-affiliation-position: "Associate Professor, Department of Naval Architecture, School of Engineering"
 current-affiliation-institution: "University of West Attica"
 current-affiliation-country: "Greece"
 external-link: "http://www.na.uniwa.gr/wp-content/uploads/sites/22/2020/11/Theodoulides_CV_2020_English.pdf"
