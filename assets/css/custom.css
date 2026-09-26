@@ -27,3 +27,7 @@
 .btn:hover {
     background-color: #aac9e2 !important;
   }
+
+/* Numbered lists (PhD students): number in the left margin, text aligned with the name */
+.numbered-item {position: relative; padding-left: 2.2em;}
+.numbered-item .item-number {position: absolute; left: 0;}

@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if include.number %} numbered-item{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -27,6 +27,7 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline" class="no-underline" style="margin-bottom: 2px; text-decoration: none;">
+      {% if include.number %}<span class="item-number">{{ include.number }}.</span>{% endif %}
       {% if post.collection == 'students' or post.collection == 'students_diploma'  or post.collection == 'publications' %}
         {% if post.external-link %}
           <a href="{{ post.external-link }}" target="_blank" class="paper-title-link">{{ title | strip }}</a>

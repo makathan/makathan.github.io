@@ -10,7 +10,7 @@ author_profile: true
 ## Ph.D. Students
 
 {% for post in site.students reversed %}
-  {% include archive-single.html %}
+  {% include archive-single.html number=forloop.rindex %}
 {% endfor %}
 
 ## Selected Diploma and M.Sc. Students
