@@ -1,2 +1,6 @@
 _site/
 
+
+# Local development only
+Gemfile.lock
+.claude/
