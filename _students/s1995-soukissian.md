@@ -7,7 +7,7 @@ institute: "NTUA, Greece"
 year: "1995"
 type: "phd" # or diploma
 current-affiliation-position: "Senior Researcher"
-current-affiliation-institution: "Hellenic Center for Marine Research"
+current-affiliation-institution: "Hellenic Centre for Marine Research"
 current-affiliation-country: "Greece"
 external-link: "https://www.hcmr.gr/en/soukissian-takvor/"
 ---

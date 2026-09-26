@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Gerassimos A. Athanassoulis"
 title_separator          : "-"
 name                     : &name "Gerassimos A. Athanassoulis"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gerassimos A. Athanassoulis"
   avatar           : "makis.jpeg"
-  bio              : "Professor of Ship and Marine Hydrodynamics"
+  bio              : "Professor Emeritus of Ship and Marine Hydrodynamics"
   location         : 
   employer         : "NTUA, Greece"
   pubmed           : 

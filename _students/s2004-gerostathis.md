@@ -9,5 +9,5 @@ type: "phd" # or diploma
 current-affiliation-position: "Professor, Department of Naval Architecture, School of Engineering"
 current-affiliation-institution: "University of West Attica"
 current-affiliation-country: "Greece"
-external-link: "http://www.na.uniwa.gr/en/theodoros-gerostathis/"
+external-link: "https://na.uniwa.gr/en/gerostathis_t/"
 ---

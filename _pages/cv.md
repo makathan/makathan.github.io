@@ -15,7 +15,7 @@ Click <u><a href="../documents/Gerassimos-Athanassoulis-CV-2023.pdf" target="_bl
 
 
 ## Work experience
-* 1984-now: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
+* 1984-now: Faculty member, School of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
   * Emeritus Professor: 2021-now
   * Full Professor: 1997-2020
   * Associate Professor: 1992-1997
@@ -24,7 +24,7 @@ Click <u><a href="../documents/Gerassimos-Athanassoulis-CV-2023.pdf" target="_bl
 * 2017: Visiting Researcher, University of Melbourne, Australia
 * 2013-2016: Research Professor, ITMO University, Russia
 * 2004: Visiting Researcher at the Centre for Ships and Ocean Structures, NTNU, Norway
-* 1990-1995: Researcher at the Institute of Computational and Applied Mathematics, FORTH, Greece
+* 1990-1995: Researcher at the Institute of Applied and Computational Mathematics, FORTH, Greece
 
 ## Education
 * Ph.D. in Naval and Marine Hydrodynamics, National Technical University of Athens, 1982
