@@ -2,6 +2,8 @@
 
 .archive a:hover {text-decoration: underline !important;}
 
+.archive a.pdf-link {text-decoration: underline !important;}
+
 .btn {
     background-color: #2595f0 !important;
     text-decoration: none !important;

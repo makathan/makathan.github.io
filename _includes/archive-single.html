@@ -32,7 +32,9 @@
           <a href="{{ post.external-link }}" target="_blank">{{ title }}</a>
         {% else %}
           {{ title }}
-        {% endif %}    
+        {% endif %}
+        {% if post.pdf-link %}&nbsp;<a href="{{ post.pdf-link }}" target="_blank" class="pdf-link">[PDF]</a>{% endif %}
+        {% if post.pre-print-link %}&nbsp;<a href="{{ post.pre-print-link }}" target="_blank" class="pdf-link">[PDF pre-print]</a>{% endif %}
       {% elsif post.collection == 'teaching' %}  
         {{ title }}
       {% else %}  
