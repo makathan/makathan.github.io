@@ -31,8 +31,8 @@ Click <u><a href="../documents/Gerassimos-Athanassoulis-CV-2023.pdf" target="_bl
 * Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 1977
 
 ## Selected service and leadership
+* 2016-now: Graduate program committee member, &quot;Applied Mathematical Sciences&quot;, NTUA, Greece 
 * 2019-2020: Director of the graduate program &quot;Naval and Marine Technology&quot;, NTUA, Greece 
-* 2016-2020: Graduate program committee member, &quot;Applied Mathematical Sciences&quot;, NTUA, Greece 
 * 2000-2020: Graduate program committee member, &quot;Mathematical Modeling in New Technologies and Finance&quot;, NTUA, Greece 
 * 1999-2018: Graduate program committee member, &quot;Naval and Marine Technology&quot;, NTUA, Greece 
 * 2005-2007: Dean of School of Naval Architecture and Marine Engineering, NTUA, Greece
